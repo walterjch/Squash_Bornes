@@ -4,12 +4,12 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/Administrateur/source/repos/SquashClass/SquashClass/Content/arrow.png</File>
-    <File>C:/Users/Administrateur/source/repos/SquashClass/SquashClass/Content/ball.png</File>
-    <File>C:/Users/Administrateur/source/repos/SquashClass/SquashClass/Content/ducky.png</File>
-    <File>C:/Users/Administrateur/source/repos/SquashClass/SquashClass/Content/Font.spritefont</File>
-    <File>C:/Users/Administrateur/source/repos/SquashClass/SquashClass/Content/ground.png</File>
-    <File>C:/Users/Administrateur/source/repos/SquashClass/SquashClass/Content/player.png</File>
+    <File>C:/Users/jauchw/Desktop/PortesOuvertes/Squash_Bornes/SquashClass/SquashClass/Content/arrow.png</File>
+    <File>C:/Users/jauchw/Desktop/PortesOuvertes/Squash_Bornes/SquashClass/SquashClass/Content/ball.png</File>
+    <File>C:/Users/jauchw/Desktop/PortesOuvertes/Squash_Bornes/SquashClass/SquashClass/Content/ducky.png</File>
+    <File>C:/Users/jauchw/Desktop/PortesOuvertes/Squash_Bornes/SquashClass/SquashClass/Content/Font.spritefont</File>
+    <File>C:/Users/jauchw/Desktop/PortesOuvertes/Squash_Bornes/SquashClass/SquashClass/Content/ground.png</File>
+    <File>C:/Users/jauchw/Desktop/PortesOuvertes/Squash_Bornes/SquashClass/SquashClass/Content/player.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

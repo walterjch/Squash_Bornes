@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/Administrateur/source/repos/SquashClass/SquashClass/Content/ball.png</SourceFile>
-  <SourceTime>2019-12-03T08:22:56.4387904+01:00</SourceTime>
-  <DestFile>C:/Users/Administrateur/source/repos/SquashClass/SquashClass/Content/bin/Windows/Content/ball.xnb</DestFile>
-  <DestTime>2019-12-03T08:23:07.0097235+01:00</DestTime>
+  <SourceFile>C:/Users/jauchw/Desktop/PortesOuvertes/Squash_Bornes/SquashClass/SquashClass/Content/ball.png</SourceFile>
+  <SourceTime>2019-12-03T09:23:16.1236963+01:00</SourceTime>
+  <DestFile>C:/Users/jauchw/Desktop/PortesOuvertes/Squash_Bornes/SquashClass/SquashClass/Content/bin/Windows/Content/ball.xnb</DestFile>
+  <DestTime>2019-12-03T09:23:34.8796963+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
