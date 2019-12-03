@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Administrateur/source/repos/SquashClass/SquashClass/Content/arrow.png</File>
+    <File>C:/Users/Administrateur/source/repos/SquashClass/SquashClass/Content/ball.png</File>
+    <File>C:/Users/Administrateur/source/repos/SquashClass/SquashClass/Content/ducky.png</File>
+    <File>C:/Users/Administrateur/source/repos/SquashClass/SquashClass/Content/Font.spritefont</File>
+    <File>C:/Users/Administrateur/source/repos/SquashClass/SquashClass/Content/ground.png</File>
+    <File>C:/Users/Administrateur/source/repos/SquashClass/SquashClass/Content/player.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

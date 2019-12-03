@@ -17,8 +17,8 @@ namespace SquashClass
     {
         //CONST
         const float ACCELERATION = 0.1f;
-        const float PLAYERSPEED = 300f;
-        const float BALLSPEED = 100f;
+        const float PLAYERSPEED = 460f;
+        const float BALLSPEED = 150f;
 
         //Variables
         GraphicsDeviceManager graphics;
@@ -39,7 +39,11 @@ namespace SquashClass
         public Game1()
         {
             graphics = new GraphicsDeviceManager(this);
-            graphics.ToggleFullScreen();
+            graphics.PreferredBackBufferWidth = GraphicsAdapter.DefaultAdapter.CurrentDisplayMode.Width;
+            graphics.PreferredBackBufferHeight = GraphicsAdapter.DefaultAdapter.CurrentDisplayMode.Height;
+            graphics.IsFullScreen = true;
+            graphics.ApplyChanges();
+            
             Content.RootDirectory = "Content";
         }
 
