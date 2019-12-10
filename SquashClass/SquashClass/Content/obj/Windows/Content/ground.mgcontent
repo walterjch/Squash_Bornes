@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<<<<<<< HEAD
   <SourceFile>C:/Users/Administrateur/Desktop/git/Squash_Bornes/SquashClass/SquashClass/Content/ground.png</SourceFile>
   <SourceTime>2019-12-10T07:48:08.3679219+01:00</SourceTime>
   <DestFile>C:/Users/Administrateur/Desktop/git/Squash_Bornes/SquashClass/SquashClass/Content/bin/Windows/Content/ground.xnb</DestFile>
   <DestTime>2019-12-10T08:53:09.2763582+01:00</DestTime>
+=======
+  <SourceFile>C:/Users/jauchw/Desktop/PortesOuvertes/Squash_Bornes/SquashClass/SquashClass/Content/ground.png</SourceFile>
+  <SourceTime>2019-12-10T08:48:06.5707769+01:00</SourceTime>
+  <DestFile>C:/Users/jauchw/Desktop/PortesOuvertes/Squash_Bornes/SquashClass/SquashClass/Content/bin/Windows/Content/ground.xnb</DestFile>
+  <DestTime>2019-12-10T08:48:48.4531978+01:00</DestTime>
+>>>>>>> nouveau fond avec logo
   <Importer>TextureImporter</Importer>
   <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
