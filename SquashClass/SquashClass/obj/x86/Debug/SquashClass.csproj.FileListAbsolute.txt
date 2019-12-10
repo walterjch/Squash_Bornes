@@ -57,6 +57,7 @@ C:\Users\Administrateur\source\repos\SquashClass\SquashClass\obj\x86\Debug\Squas
 C:\Users\Administrateur\source\repos\SquashClass\SquashClass\obj\x86\Debug\SquashClass.csproj.CopyComplete
 C:\Users\Administrateur\source\repos\SquashClass\SquashClass\obj\x86\Debug\SquashClass.exe
 C:\Users\Administrateur\source\repos\SquashClass\SquashClass\obj\x86\Debug\SquashClass.pdb
+<<<<<<< HEAD
 C:\Users\jauchw\Desktop\PortesOuvertes\Squash_Bornes\SquashClass\SquashClass\bin\Windows\x86\Debug\Content\arrow.xnb
 C:\Users\jauchw\Desktop\PortesOuvertes\Squash_Bornes\SquashClass\SquashClass\bin\Windows\x86\Debug\Content\ball.xnb
 C:\Users\jauchw\Desktop\PortesOuvertes\Squash_Bornes\SquashClass\SquashClass\bin\Windows\x86\Debug\Content\ducky.xnb
@@ -86,3 +87,34 @@ C:\Users\jauchw\Desktop\PortesOuvertes\Squash_Bornes\SquashClass\SquashClass\obj
 C:\Users\jauchw\Desktop\PortesOuvertes\Squash_Bornes\SquashClass\SquashClass\obj\x86\Debug\SquashClass.csproj.CopyComplete
 C:\Users\jauchw\Desktop\PortesOuvertes\Squash_Bornes\SquashClass\SquashClass\obj\x86\Debug\SquashClass.exe
 C:\Users\jauchw\Desktop\PortesOuvertes\Squash_Bornes\SquashClass\SquashClass\obj\x86\Debug\SquashClass.pdb
+=======
+C:\Users\Administrateur\Desktop\git\Squash_Bornes\SquashClass\SquashClass\bin\Windows\x86\Debug\Content\arrow.xnb
+C:\Users\Administrateur\Desktop\git\Squash_Bornes\SquashClass\SquashClass\bin\Windows\x86\Debug\Content\ball.xnb
+C:\Users\Administrateur\Desktop\git\Squash_Bornes\SquashClass\SquashClass\bin\Windows\x86\Debug\Content\ducky.xnb
+C:\Users\Administrateur\Desktop\git\Squash_Bornes\SquashClass\SquashClass\bin\Windows\x86\Debug\Content\Font.xnb
+C:\Users\Administrateur\Desktop\git\Squash_Bornes\SquashClass\SquashClass\bin\Windows\x86\Debug\Content\ground.xnb
+C:\Users\Administrateur\Desktop\git\Squash_Bornes\SquashClass\SquashClass\bin\Windows\x86\Debug\Content\player.xnb
+C:\Users\Administrateur\Desktop\git\Squash_Bornes\SquashClass\SquashClass\bin\Windows\x86\Debug\SquashClass.exe
+C:\Users\Administrateur\Desktop\git\Squash_Bornes\SquashClass\SquashClass\bin\Windows\x86\Debug\SquashClass.pdb
+C:\Users\Administrateur\Desktop\git\Squash_Bornes\SquashClass\SquashClass\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Administrateur\Desktop\git\Squash_Bornes\SquashClass\SquashClass\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Administrateur\Desktop\git\Squash_Bornes\SquashClass\SquashClass\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Administrateur\Desktop\git\Squash_Bornes\SquashClass\SquashClass\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Administrateur\Desktop\git\Squash_Bornes\SquashClass\SquashClass\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Administrateur\Desktop\git\Squash_Bornes\SquashClass\SquashClass\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Administrateur\Desktop\git\Squash_Bornes\SquashClass\SquashClass\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Administrateur\Desktop\git\Squash_Bornes\SquashClass\SquashClass\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Administrateur\Desktop\git\Squash_Bornes\SquashClass\SquashClass\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Administrateur\Desktop\git\Squash_Bornes\SquashClass\SquashClass\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Administrateur\Desktop\git\Squash_Bornes\SquashClass\SquashClass\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Administrateur\Desktop\git\Squash_Bornes\SquashClass\SquashClass\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Administrateur\Desktop\git\Squash_Bornes\SquashClass\SquashClass\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Administrateur\Desktop\git\Squash_Bornes\SquashClass\SquashClass\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Administrateur\Desktop\git\Squash_Bornes\SquashClass\SquashClass\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Administrateur\Desktop\git\Squash_Bornes\SquashClass\SquashClass\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Administrateur\Desktop\git\Squash_Bornes\SquashClass\SquashClass\obj\x86\Debug\SquashClass.csprojAssemblyReference.cache
+C:\Users\Administrateur\Desktop\git\Squash_Bornes\SquashClass\SquashClass\obj\x86\Debug\SquashClass.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\git\Squash_Bornes\SquashClass\SquashClass\obj\x86\Debug\SquashClass.csproj.CopyComplete
+C:\Users\Administrateur\Desktop\git\Squash_Bornes\SquashClass\SquashClass\obj\x86\Debug\SquashClass.exe
+C:\Users\Administrateur\Desktop\git\Squash_Bornes\SquashClass\SquashClass\obj\x86\Debug\SquashClass.pdb
+>>>>>>> Changement de résolution

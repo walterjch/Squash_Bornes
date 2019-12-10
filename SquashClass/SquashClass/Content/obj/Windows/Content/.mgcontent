@@ -4,12 +4,21 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
+<<<<<<< HEAD
     <File>C:/Users/jauchw/Desktop/PortesOuvertes/Squash_Bornes/SquashClass/SquashClass/Content/arrow.png</File>
     <File>C:/Users/jauchw/Desktop/PortesOuvertes/Squash_Bornes/SquashClass/SquashClass/Content/ball.png</File>
     <File>C:/Users/jauchw/Desktop/PortesOuvertes/Squash_Bornes/SquashClass/SquashClass/Content/ducky.png</File>
     <File>C:/Users/jauchw/Desktop/PortesOuvertes/Squash_Bornes/SquashClass/SquashClass/Content/Font.spritefont</File>
     <File>C:/Users/jauchw/Desktop/PortesOuvertes/Squash_Bornes/SquashClass/SquashClass/Content/ground.png</File>
     <File>C:/Users/jauchw/Desktop/PortesOuvertes/Squash_Bornes/SquashClass/SquashClass/Content/player.png</File>
+=======
+    <File>C:/Users/Administrateur/Desktop/git/Squash_Bornes/SquashClass/SquashClass/Content/arrow.png</File>
+    <File>C:/Users/Administrateur/Desktop/git/Squash_Bornes/SquashClass/SquashClass/Content/ball.png</File>
+    <File>C:/Users/Administrateur/Desktop/git/Squash_Bornes/SquashClass/SquashClass/Content/ducky.png</File>
+    <File>C:/Users/Administrateur/Desktop/git/Squash_Bornes/SquashClass/SquashClass/Content/Font.spritefont</File>
+    <File>C:/Users/Administrateur/Desktop/git/Squash_Bornes/SquashClass/SquashClass/Content/ground.png</File>
+    <File>C:/Users/Administrateur/Desktop/git/Squash_Bornes/SquashClass/SquashClass/Content/player.png</File>
+>>>>>>> Changement de résolution
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />
