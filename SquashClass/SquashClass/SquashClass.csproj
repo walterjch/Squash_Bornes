@@ -41,6 +41,7 @@
     <ApplicationManifest>app.manifest</ApplicationManifest>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Arrow.cs" />
     <Compile Include="Ball.cs" />
     <Compile Include="Game1.cs" />
     <Compile Include="Player.cs" />

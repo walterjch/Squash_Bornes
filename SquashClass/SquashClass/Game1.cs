@@ -10,6 +10,7 @@ using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using System;
+using System.Collections.Generic;
 
 namespace SquashClass
 {
@@ -25,7 +26,11 @@ namespace SquashClass
         SpriteBatch spriteBatch;
         SpriteFont font;
         Texture2D background;
-        Texture2D arrows;
+        List<Arrow> arrows;
+
+        Arrow arrow;
+        //Arrow StartArrow;
+        //Arrow RestartArrow;
 
         Player p1;
         Player p2;
@@ -53,13 +58,17 @@ namespace SquashClass
             p2 = new Player();
             b = new Ball();
 
+            arrows = new List<Arrow>();
+            
+
             b.MoveBall = false;
             p1.TurnPlayer = true;
             p2.TurnPlayer = false;
             b.TouchBorderRight = false;
             p1.PlayerSpeed = PLAYERSPEED;
             p2.PlayerSpeed = PLAYERSPEED;
-            b.ballSpeed = BALLSPEED;
+            b.ballSpeed = BALLSPEED;            
+
             base.Initialize();
         }
         protected override void LoadContent()
@@ -78,7 +87,16 @@ namespace SquashClass
 
             font = Content.Load<SpriteFont>("font");
             background = Content.Load<Texture2D>("ground");
-            arrows = Content.Load<Texture2D>("arrow");
+
+            arrow = new Arrow();
+            arrow.Initialize(Content.Load<Texture2D>("LeaveArrow"), new Vector2(GraphicsDevice.Viewport.Width - GraphicsDevice.Viewport.Width / 5 - 100,GraphicsDevice.Viewport.Height-70),45);
+            arrows.Add(arrow);
+            arrow = new Arrow();
+            arrow.Initialize(Content.Load<Texture2D>("StartArrow"), new Vector2(GraphicsDevice.Viewport.Width/2 - 50, GraphicsDevice.Viewport.Height - 70),76);
+            arrows.Add(arrow);
+            arrow = new Arrow();
+            arrow.Initialize(Content.Load<Texture2D>("RestartArrow"), new Vector2(GraphicsDevice.Viewport.Width/5, GraphicsDevice.Viewport.Height - 70),10);
+            arrows.Add(arrow);
         }
 
         protected override void Update(GameTime gameTime)
@@ -97,6 +115,17 @@ namespace SquashClass
 
             if (lose)
                 return;
+
+            
+
+            if (!b.MoveBall)
+            {
+                foreach (Arrow a in arrows)
+                {   
+                        a.Update(gameTime);
+                }
+            }
+            
 
             startGame(tabKey);
             p1.move(gameTime, kstate, GraphicsDevice, Keys.Up, Keys.Left, Keys.Down, Keys.Right);
@@ -133,8 +162,16 @@ namespace SquashClass
             p2.Draw(spriteBatch, Color.LightPink);
 
             if (!b.MoveBall)
-                spriteBatch.Draw(arrows, new Vector2((GraphicsDevice.Viewport.Width - arrows.Width) / 2, GraphicsDevice.Viewport.Height - arrows.Height), Color.White);
-            
+            {
+                //spriteBatch.Draw(LeaveArrow.Texture, LeaveArrow.Position, Color.Honeydew);
+                foreach(Arrow a in arrows)
+                {
+                    a.Draw(spriteBatch);
+                }                
+                //spriteBatch.Draw(arrows, new Vector2((GraphicsDevice.Viewport.Width - arrows.Width) / 2, GraphicsDevice.Viewport.Height - arrows.Height), Color.White);
+
+            }
+
             //Change couleur de la balle en fonction du tour du joueur
             if (p1.TurnPlayer)
                 b.Draw(spriteBatch, Color.Aquamarine, rotation);

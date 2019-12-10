@@ -57,7 +57,6 @@ C:\Users\Administrateur\source\repos\SquashClass\SquashClass\obj\x86\Debug\Squas
 C:\Users\Administrateur\source\repos\SquashClass\SquashClass\obj\x86\Debug\SquashClass.csproj.CopyComplete
 C:\Users\Administrateur\source\repos\SquashClass\SquashClass\obj\x86\Debug\SquashClass.exe
 C:\Users\Administrateur\source\repos\SquashClass\SquashClass\obj\x86\Debug\SquashClass.pdb
-<<<<<<< HEAD
 C:\Users\jauchw\Desktop\PortesOuvertes\Squash_Bornes\SquashClass\SquashClass\bin\Windows\x86\Debug\Content\arrow.xnb
 C:\Users\jauchw\Desktop\PortesOuvertes\Squash_Bornes\SquashClass\SquashClass\bin\Windows\x86\Debug\Content\ball.xnb
 C:\Users\jauchw\Desktop\PortesOuvertes\Squash_Bornes\SquashClass\SquashClass\bin\Windows\x86\Debug\Content\ducky.xnb
@@ -87,7 +86,6 @@ C:\Users\jauchw\Desktop\PortesOuvertes\Squash_Bornes\SquashClass\SquashClass\obj
 C:\Users\jauchw\Desktop\PortesOuvertes\Squash_Bornes\SquashClass\SquashClass\obj\x86\Debug\SquashClass.csproj.CopyComplete
 C:\Users\jauchw\Desktop\PortesOuvertes\Squash_Bornes\SquashClass\SquashClass\obj\x86\Debug\SquashClass.exe
 C:\Users\jauchw\Desktop\PortesOuvertes\Squash_Bornes\SquashClass\SquashClass\obj\x86\Debug\SquashClass.pdb
-=======
 C:\Users\Administrateur\Desktop\git\Squash_Bornes\SquashClass\SquashClass\bin\Windows\x86\Debug\Content\arrow.xnb
 C:\Users\Administrateur\Desktop\git\Squash_Bornes\SquashClass\SquashClass\bin\Windows\x86\Debug\Content\ball.xnb
 C:\Users\Administrateur\Desktop\git\Squash_Bornes\SquashClass\SquashClass\bin\Windows\x86\Debug\Content\ducky.xnb
@@ -117,4 +115,6 @@ C:\Users\Administrateur\Desktop\git\Squash_Bornes\SquashClass\SquashClass\obj\x8
 C:\Users\Administrateur\Desktop\git\Squash_Bornes\SquashClass\SquashClass\obj\x86\Debug\SquashClass.csproj.CopyComplete
 C:\Users\Administrateur\Desktop\git\Squash_Bornes\SquashClass\SquashClass\obj\x86\Debug\SquashClass.exe
 C:\Users\Administrateur\Desktop\git\Squash_Bornes\SquashClass\SquashClass\obj\x86\Debug\SquashClass.pdb
->>>>>>> Changement de résolution
+C:\Users\Administrateur\Desktop\git\Squash_Bornes\SquashClass\SquashClass\bin\Windows\x86\Debug\Content\LeaveArrow.xnb
+C:\Users\Administrateur\Desktop\git\Squash_Bornes\SquashClass\SquashClass\bin\Windows\x86\Debug\Content\RestartArrow.xnb
+C:\Users\Administrateur\Desktop\git\Squash_Bornes\SquashClass\SquashClass\bin\Windows\x86\Debug\Content\StartArrow.xnb
