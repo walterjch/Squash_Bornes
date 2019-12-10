@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SourceFile>C:/Users/jauchw/Desktop/PortesOuvertes/Squash_Bornes/SquashClass/SquashClass/Content/ground.png</SourceFile>
-  <SourceTime>2019-12-03T12:44:54.3067252+01:00</SourceTime>
+  <SourceTime>2019-12-03T15:03:06.9460125+01:00</SourceTime>
   <DestFile>C:/Users/jauchw/Desktop/PortesOuvertes/Squash_Bornes/SquashClass/SquashClass/Content/bin/Windows/Content/ground.xnb</DestFile>
-  <DestTime>2019-12-03T12:45:41.6343017+01:00</DestTime>
+  <DestTime>2019-12-03T15:04:21.1147199+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
